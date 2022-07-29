@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+section{
+  display: flex;
+  
+
+}
+.contact-card{
+  width: 200px;
+  padding: 10px;
+  border: 1px solid black;
+  margin: 10px 10px;
+}
+.contact-image{
+  width: 100%;
+}
+.info-section{
+  display: flex;
+ 
+}
+.icons{
+  width: 14px;
+}
